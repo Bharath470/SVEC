@@ -50,4 +50,31 @@
 	- git push -u origin master 
 
 
-### HTML
+### HTML 5
+
+- Hyper Text Markup Language
+- Semantic elements
+	- Header
+	- Section
+	- Article
+	- Aside
+	- Footer
+	- Table
+- Block Level elements (occupy the whole screen no matter of the device)
+	- h1 to h6
+	- p (paragraph)
+	- div
+	- all semantic elements
+	- text will start from new line 
+- Inline elements
+	- span
+	- img
+	- a (anchor)
+	- nav
+	- form
+	- input
+	- textarea
+	- legend
+	- sup
+	- sub
+	
