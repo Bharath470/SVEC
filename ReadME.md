@@ -39,10 +39,15 @@
 - git init
 - git add filename
 - git add filename1 filename5 filename90
-- git add .  (or) git add .. all 
+	- git add .  (or) git add .. all 
 - git status
 - Do git configurations(name and email)
 - commit data with commit message  (git commit)
+	-  git commit -m "modified"
 -  git remote add origin https://github.com/Bharath470/SVEC.git (copy the link in repository)
 -  git remote
-- git push -u origin master  (push the code into github)
+-  (push the code into github)
+	- git push -u origin master 
+
+
+### HTML
