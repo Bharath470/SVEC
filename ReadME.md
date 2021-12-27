@@ -45,4 +45,4 @@
 - commit data with commit message  (git commit)
 -  git remote add origin https://github.com/Bharath470/SVEC.git (copy the link in repository)
 -  git remote
-- git push -u origin master
+- git push -u origin master  (push the code into github)
