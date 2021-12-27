@@ -43,3 +43,6 @@
 - git status
 - Do git configurations(name and email)
 - commit data with commit message  (git commit)
+-  git remote add origin https://github.com/Bharath470/SVEC.git (copy the link in repository)
+-  git remote
+- git push -u origin master
