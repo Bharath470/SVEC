@@ -148,4 +148,82 @@
 + Rest Parameter
     + to handle function parameters
 
-    
+...
+    ...parameter
+...
+
++ Destructuring of array & objects
+
++ Functions
+
+    - Function with functionname
+    ...
+    function demo(x,y){
+        return x+y
+    }
+    demo()
+    ...
+
+
+    - anonymous function
+    ...
+    let demo=function(x,y){
+        return x+y
+    }
+    ...
+
+    - Arrow function
+
+    ...
+    let demo= (x,y)=>{
+        return x*y
+    }
+    demo(3,4)
+    ...
+
+
++ for
+    - for-in
+        - to get index values of the index
+    - for-of
+        - to get elements in an array    
+    - forEach() --> ES5
+    + map --> ES-6
+
+
+### DOM
+- Document Object model
+
+- document
+- history 
+- window
+- navigator
+
++ DOM methods
+- `getElementsById()`
+- `getElementsByClassName()`
+- `querySelector()`
+- `innerText`
+- `textContent`
+- `append`
+- `appendChild`
+- `innerHTML`
+- `setAttribute()`
+- `classList`
+- `style`
+- `src`
+
+
+###  JSON
++ Java Script Object Notation
+    - To exchange information between application and server
+    ...
+    {
+        "name":"Bharath Tumati",
+        "salary":"6.5 LPA",
+        "designation":"MERN Developer",
+        "mobile":8179157847
+    }
+    ...
+
++ Ajax call or promises (fetch API) or axios
