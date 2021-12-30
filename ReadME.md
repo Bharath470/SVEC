@@ -76,3 +76,76 @@
 
 + Modal
 + Table
+
+
+
+
+### JavaScript
+
++ In 1995 Brenden Eich introduced javascript (ES-262)
++ JavaScript is loosely toupled and dynamic language 
++ It is a text based programming language and we can run in client-side and server-side 
+(node.js) for dynamic web applications.
+- tied up with ECMA (ES-1 to ES-11 except ES-4) (ES-6 can be used)
+    - let & const
+    - map()
+    - arrow function
+    - classes
+    - spread operator
+    - rest parameter
+    
++ datatypes
+    - Number
+    - BigInt(2^53-1)
+    - String
+    - Boolean
+    - Undefine
+    - Null
+    - object
+    - Array
+
++ variables
+    - var , let & const
+    - scope
+        - function level --> var
+        - block level --> let & const
+    - redefine --> var , let
+    - redeclare  --> only var
+
++ typeof()
+
++ Objects
+
+    - pair of key and value 
+    - ex: 
+    {
+        name:"kalyan",
+        std:"udu"
+    }
+
+
++ Arrays
+
+### Alerts
++ to generate notifications
+    - alert
+    - prompt (to take input from the user)
+    - confirm 
+
++ console statements
+    - `console.log()`
+    - `console.info()`
+    - `console.warn()`
+    - `console.error()`     
+
++ spread operator
+
+...
+    ...VariableName
+...
+
+
++ Rest Parameter
+    + to handle function parameters
+
+    
