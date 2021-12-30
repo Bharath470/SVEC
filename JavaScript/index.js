@@ -1,4 +1,4 @@
-"use strict"
+// "use strict"
 
 // let name=" vamsi";
 // var age=20;
@@ -11,13 +11,13 @@
 
 // // Objects
 
-// let employee={
-//     name: "Govardhan",
-//     designation:"Junior Software Developer",
-//     salary:"3.6 LPA",
-//     mobile:8179157847
-// }
-// console.log(employee)
+    // let employee={
+    //     name: "Govardhan",
+    //     designation:"Junior Software Developer",
+    //     salary:"3.6 LPA",
+    //     mobile:8179157847
+    // }
+    // console.log(employee)
 
 
 // // Array
@@ -89,3 +89,73 @@
     // console.log(name)
     // console.log(designation)
     // console.log(remainList)
+
+
+// Functions
+
+    // let demo=function(x,y){
+    //     return x+y
+    // }
+    // console.log(demo(3,5))
+
+
+    // (function(x=4,y=6){
+    //     return console.log(x+y)
+    // }) ()
+
+
+    // setTimeout(function(){
+    //     console.log("welcome")
+    // }, 3000);
+
+
+    
+
+    // arrow functiom
+
+    // let demo= (x,y) => {
+    //     return x*y
+    // }
+    // console.log(demo(3,4))
+
+
+// FOR LOOPS IN JS
+
+    let employees=["Dhanunjay","Pavan","Harika","Vignesh"]
+    
+    // FOR:-
+    // for(let i=0;i<employees.length;i++){
+    //     console.log(employees[i])
+    // }
+
+
+    // FOR IN
+    // for(let i in employees){
+    //     console.log(i)
+    // }
+
+    // FOR-OF
+    // for(let i of employees){
+    //     console.log(i)
+    // }
+
+   // FOR EACH
+    // let result=employees.forEach(function (element) {
+    //     return element
+    // })
+    // console.log(result)
+
+    // employees.forEach(function (element,index) {
+    //     console.log(element+" ok "+index)
+    // })
+
+
+
+// MAP FUNCTION
+    // let result=employees.map(function (element,index) {
+    //     return element+" k"+index
+    // })
+    // console.log(employees)
+    // console.log(result)
+
+
