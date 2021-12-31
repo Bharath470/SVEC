@@ -227,3 +227,52 @@
     ...
 
 + Ajax call or promises (fetch API) or axios
+
+
+
+#### ReactJS
+
+
+### Features of ReactJS
+
++ It is a library
++ It follows component based architecture
+    - Function component
+    - class component
+    - Pure component
+    - Higher order component
++ It provides virtual DOM    
++ it provides JSX (JavaScript and XML)
++ Uni-directional data flow
++ Single Page Applications
+
++ Project Environment setup
+    - [DownloadVisualstudioCode]
+    - [DownloadNode.js] (https://nodejs.org/en/download/)
+    - install nodejs and check versions of `node` and `npm`
+        - `node -v`
+        - `npm -v`
+    - `webpack` and `babel`
+    - `create-react-app`
+        - `npm install create-react-app`
+            -`create-react-app projectname`    
+    -  `npx create-react-app appname`
+    
++ Index.html
++ index.js
++ App.js
+    + IndexPage
+        - nav.js    
+        - body.js
+        - footer.js
+
+        + Home.js
+            - nav
+            - body
+            - footer
+
+        + Login.js 
+        + Register
+        + About
+        + contact
+            - 
